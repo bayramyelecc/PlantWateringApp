@@ -6,3 +6,13 @@
 //
 
 import Foundation
+import UIKit
+
+struct OnBoarding {
+    
+    let id = UUID()
+    let title: String
+    let descrip: String
+    let image: UIImage
+    
+}

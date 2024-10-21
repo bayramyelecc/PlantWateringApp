@@ -6,3 +6,16 @@
 //
 
 import Foundation
+import UIKit
+
+struct Bitki {
+    
+    let id : UUID
+    let titles: String
+    let saats: String
+    let ml: Int32
+    let image: UIImage
+    
+}
+
+

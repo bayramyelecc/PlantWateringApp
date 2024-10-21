@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct Desc {
+    
+    let id = UUID()
+    let aciklama: String
+    
+}
+
+
